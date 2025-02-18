@@ -21,7 +21,7 @@ rmdir Ciphra
 </br>
 
 ![Static Badge](https://img.shields.io/badge/⚠️Atenção⚠️-ffea00?style=for-the-badge&logoSize=30)
-### Coloque o nome do aruivo que você criar no nome da classe. No meu caso, o nome do arquivo seria ``Main.java``
+### Coloque o nome do arquivo que você criar no nome da classe. No meu caso, o nome do arquivo seria ``Main.java``
 
 ```java
 import javacry.crypto.Ciphra;
