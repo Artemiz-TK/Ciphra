@@ -16,7 +16,7 @@ git clone https://github.com/LucasAlanderson/Ciphra.git
 mv Ciphra/javacry ../
 rmdir Ciphra
 ```
-### Após isso, crie algum aruivo Java com o metodo main. Para facilitar sua vida, eu vou deixar um arquivo já pronto.
+### Após isso, crie algum arquivo Java com o metodo main. Para facilitar sua vida, eu vou deixar um arquivo já pronto.
 
 </br>
 
