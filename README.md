@@ -46,6 +46,6 @@ java Main # mesmo processo de cima, só que aqui não tem extensão
 
 ---
 
-### PS: Pretendo depois fazer uma automação com sh para que vá para o bin do Java, mas não sei se é tão util... Enfim, termino esse README por aqui. Obrigada a quem quer que esteja vendo isso. Fique com essa citação:
+### PS: Pretendo depois fazer uma automação com sh para que vá para o bin do Java, mas não sei se é tão util... Enfim, termino esse README por aqui. Obrigada a quem quer que esteja vendo isso. Fique com essa citação: 
 
 > Nem sempre é amigo aquele que te tira do buraco </br>Artista: `Saddam Hussein`
