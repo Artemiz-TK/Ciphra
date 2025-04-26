@@ -47,4 +47,5 @@ E pronto! você já deve tá vendo alguma saída no seu terminal. Espero que con
 
 ---
 
-### PS: Pretendo depois fazer uma automação com sh para que vá para o bin do Java, mas não sei se é tão util... Enfim, termino esse README por aqui. Obrigada a quem quer que esteja vendo isso.
+### PS: 
+Pretendo depois fazer uma automação com sh para que vá para o bin do Java, mas não sei se é tão util... Enfim, termino esse README por aqui. Obrigada a quem quer que esteja vendo isso.
